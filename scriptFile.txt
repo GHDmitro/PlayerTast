@@ -1,0 +1,7 @@
+MAC OS:
+    cd ~/PlayerTast/target
+    java -jar PlayerTask-1.jar
+
+Windows:
+    cd ~\PlayerTast\target
+    java -jar PlayerTask-1.jar
